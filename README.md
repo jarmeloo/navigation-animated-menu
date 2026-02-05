@@ -1,4 +1,4 @@
-## 🪄 Navigation Animated Menu – Menu Animado de Navegação
+## 📱 Navigation Animated Menu – Menu Animado de Navegação
 
 Um menu de navegação horizontal animado, desenvolvido com HTML, CSS e JavaScript, que utiliza ícones interativos e um indicador circular (“bolinha mágica”) que se move suavemente conforme o item ativo, criando uma experiência visual moderna e dinâmica.
 
@@ -13,7 +13,7 @@ O **Navigation Animated Menu** apresenta uma barra de navegação com ícones e 
 ## 🎯 Funcionalidades
 
 * 🧭 Menu de navegação horizontal com ícones
-* 🪄 Indicador circular animado que acompanha o item ativo
+* ⚙ Indicador circular animado que acompanha o item ativo
 * 🎯 Animações suaves ao passar o mouse
 * 🏷️ Exibição dinâmica de texto ao ativar o item
 * 🖱️ Interação baseada em **mouseover**
