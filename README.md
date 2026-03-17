@@ -22,9 +22,8 @@ O **Navigation Animated Menu** apresenta uma barra de navegação com ícones e 
 
 ## 🛠️ Tecnologias e Bibliotecas Utilizadas
 
-* **HTML5**
-* **CSS3**
-* **JavaScript**
+* **HTML**
+* **CSS**
 * **Font Awesome** – ícones
 * **Google Fonts (Poppins)** – tipografia
 
